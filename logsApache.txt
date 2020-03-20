@@ -1,0 +1,13 @@
+google              www.google.com
+youtube             www.youtube.com
+facebook            www.facebook.com
+baidu               www.baidu.com
+wikipedia           www.wikipedia.com
+yahoo               www.yahoo.com
+twitter             www.twitter.com
+tins                www.tins.com
+gestão              www.tins.com
+inteligente         www.tins.com
+tins                www.tins.com
+gestão              www.tins.com
+inteligente         www.tins.com
